@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+cpp_backtest.egg-info/PKG-INFO
+cpp_backtest.egg-info/SOURCES.txt
+cpp_backtest.egg-info/dependency_links.txt
+cpp_backtest.egg-info/not-zip-safe
+cpp_backtest.egg-info/top_level.txt
+src/account_details.cpp
+src/backtest.cpp
+src/backtest_wrapper.cpp

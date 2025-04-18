@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: cpp_backtest
+Version: 0.1
+Summary: C++ implementation of backtesting functionality
+Author: User
+Author-email: user@example.com
+Requires-Python: >=3.6
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: requires-python
+Dynamic: summary
+
+Bridge between Python and C++ for efficient backtesting
